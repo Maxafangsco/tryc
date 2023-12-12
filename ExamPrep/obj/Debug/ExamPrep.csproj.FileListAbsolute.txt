@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\comp123 (programming 2)\PrepExam\ExamPrep\ExamPrep\bin\Debug\ExamPrep.exe.config
+C:\Users\Admin\Documents\comp123 (programming 2)\PrepExam\ExamPrep\ExamPrep\bin\Debug\ExamPrep.exe
+C:\Users\Admin\Documents\comp123 (programming 2)\PrepExam\ExamPrep\ExamPrep\bin\Debug\ExamPrep.pdb
+C:\Users\Admin\Documents\comp123 (programming 2)\PrepExam\ExamPrep\ExamPrep\obj\Debug\ExamPrep.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\comp123 (programming 2)\PrepExam\ExamPrep\ExamPrep\obj\Debug\ExamPrep.Form1.resources
+C:\Users\Admin\Documents\comp123 (programming 2)\PrepExam\ExamPrep\ExamPrep\obj\Debug\ExamPrep.Properties.Resources.resources
+C:\Users\Admin\Documents\comp123 (programming 2)\PrepExam\ExamPrep\ExamPrep\obj\Debug\ExamPrep.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\comp123 (programming 2)\PrepExam\ExamPrep\ExamPrep\obj\Debug\ExamPrep.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\comp123 (programming 2)\PrepExam\ExamPrep\ExamPrep\obj\Debug\ExamPrep.exe
+C:\Users\Admin\Documents\comp123 (programming 2)\PrepExam\ExamPrep\ExamPrep\obj\Debug\ExamPrep.pdb
